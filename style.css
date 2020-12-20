@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+        background: rgb(63,94,251);
+background: linear-gradient(290deg, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}
+div{
+    margin-top:15px;
+}
+.image-section{
+    display: flex;
+    justify-content: center;
+}
+.section-style{
+     margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
